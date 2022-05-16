@@ -3,10 +3,41 @@
     <title>AR Systems</title>
     <link href="https://sarthihan.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://sarthihan.github.io/gh-pages" />
-    <updated>1970-01-01T05:30:00+05:30</updated>
+    <updated>2022-05-16T12:00:25+05:30</updated>
     <author>
         <name>AR Systems</name>
     </author>
     <id>https://sarthihan.github.io/gh-pages</id>
 
+    <entry>
+        <title>Socials</title>
+        <author>
+            <name>AR Systems</name>
+        </author>
+        <link href="https://sarthihan.github.io/gh-pages/socials.html"/>
+        <id>https://sarthihan.github.io/gh-pages/socials.html</id>
+
+        <updated>2022-05-16T12:00:25+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sarthihan.github.io/gh-pages/media/posts/1/NMJ.png" alt="" />
+                    Twitter :- @arpro89 Reddit:-https://www.reddit.com/user/arpro89_youwillgetme Design for a speaker AR® Twitter Backdrop 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://sarthihan.github.io/gh-pages/media/posts/1/NMJ.png" alt="" />
+                <p>Twitter :- <a href="#INTERNAL_LINK#/author/ar-systems">@arpro89</a></p>
+<p>Reddit:-<a href="#INTERNAL_LINK#/post/null" title="@arpro89_youwillgetme" target="null">https://www.reddit.com/user/arpro89_youwillgetme</a></p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://sarthihan.github.io/gh-pages/media/posts/1/gallery/come.lkuon.png" data-size="1024x768"><img loading="lazy" src="https://sarthihan.github.io/gh-pages/media/posts/1/gallery/come.lkuon-thumbnail.png" alt="" width="720" height="540"></a>
+<figcaption>Design for a speaker</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://sarthihan.github.io/gh-pages/media/posts/1/gallery/NMJ.png" data-size="1024x768"><img loading="lazy" src="https://sarthihan.github.io/gh-pages/media/posts/1/gallery/NMJ-thumbnail.png" alt="" width="720" height="540"></a>
+<figcaption>AR® Twitter Backdrop</figcaption>
+</figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
 </feed>

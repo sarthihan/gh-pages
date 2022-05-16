@@ -5,9 +5,25 @@
     "home_page_url": "https://sarthihan.github.io/gh-pages",
     "feed_url": "https://sarthihan.github.io/gh-pages/feed.json",
     "user_comment": "",
+    "icon": "https://sarthihan.github.io/gh-pages/media/website/My-Prof.png",
     "author": {
         "name": "AR Systems"
     },
     "items": [
+        {
+            "id": "https://sarthihan.github.io/gh-pages/socials.html",
+            "url": "https://sarthihan.github.io/gh-pages/socials.html",
+            "title": "Socials",
+            "summary": "Twitter :- @arpro89 Reddit:-https://www.reddit.com/user/arpro89_youwillgetme Design for a speaker AR® Twitter Backdrop ",
+            "content_html": "<p>Twitter :- <a href=\"#INTERNAL_LINK#/author/ar-systems\">@arpro89</a></p>\n<p>Reddit:-<a href=\"#INTERNAL_LINK#/post/null\" title=\"@arpro89_youwillgetme\" target=\"null\">https://www.reddit.com/user/arpro89_youwillgetme</a></p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://sarthihan.github.io/gh-pages/media/posts/1/gallery/come.lkuon.png\" data-size=\"1024x768\"><img loading=\"lazy\" src=\"https://sarthihan.github.io/gh-pages/media/posts/1/gallery/come.lkuon-thumbnail.png\" alt=\"\" width=\"720\" height=\"540\"></a>\n<figcaption>Design for a speaker</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://sarthihan.github.io/gh-pages/media/posts/1/gallery/NMJ.png\" data-size=\"1024x768\"><img loading=\"lazy\" src=\"https://sarthihan.github.io/gh-pages/media/posts/1/gallery/NMJ-thumbnail.png\" alt=\"\" width=\"720\" height=\"540\"></a>\n<figcaption>AR® Twitter Backdrop</figcaption>\n</figure>\n</div></div>",
+            "image": "https://sarthihan.github.io/gh-pages/media/posts/1/NMJ.png",
+            "author": {
+                "name": "AR Systems"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-05-16T12:00:25+05:30",
+            "date_modified": "2022-05-16T12:00:25+05:30"
+        }
     ]
 }
